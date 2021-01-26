@@ -19,9 +19,9 @@ namespace Math.Api {
             }
         }
 
-        // public decimal multiply (int a, int b) {
-        //     return a * b;
-        // }
+        public decimal multiply (int a, int b) {
+            return a * b;
+        }
 
     }
 
